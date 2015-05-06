@@ -86,6 +86,41 @@ var data = {
             "cities": [
                 "Sydney"
             ]    
+        },
+        {
+            "name": "Ali Houssein",
+            "bio": "Consultant and Business Dev at OCTO",
+            "picture": "img/baggers/photo_ali.jpg",
+            "websites": [
+                {
+                    "title": "LinkedIn",
+                    "href": "https://au.linkedin.com/in/alihoussein"
+                }
+            ],
+            "twitter": "AliHoussein",
+            "contact": "ahoussein@octo.com",
+            "mail": "ahoussein@octo.com",
+            "location": "Sydney",
+            "sessions": [
+                {
+                    "title": "AWS Overview",
+                    "summary": "Discover the basics of Amazon Web Services through common use cases and practical application examples."
+                },
+                {
+                    "title": "Product Owner Best Practices",
+                    "summary": "You are a product owner or just work with agile methods. Discover the best practices in your field and improve your execution."
+                }            
+            ],
+            "tags": [
+                "Agile",
+                "Amazon Web Services",
+                "AWS",
+                "Product Owner",
+                "Best Practices",
+            ],
+            "cities": [
+                "Sydney"
+            ]    
         }
     ],
     "cities": [
